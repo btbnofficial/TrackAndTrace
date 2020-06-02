@@ -1,0 +1,41 @@
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe.config
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.pdb
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmLogIn.resources
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.Properties.Resources.resources
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.GenerateResource.cache
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CoreCompileInputs.cache
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.exe
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.pdb
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseDocument.resources
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseProduct.resources
+D:\Tien.DoMinh\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmCreateDocument.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe.config
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.pdb
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseDocument.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmCreateDocument.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmDocumentDetail.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmLogIn.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.Properties.Resources.resources
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.GenerateResource.cache
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CoreCompileInputs.cache
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.exe
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.pdb
+C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseBatch.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe.config
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.pdb
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseDocument.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseBatch.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmCreateDocument.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmDocumentDetail.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmLogIn.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.Properties.Resources.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.GenerateResource.cache
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CoreCompileInputs.cache
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.exe
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.pdb
