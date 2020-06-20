@@ -89,5 +89,40 @@ select * from PlannedOrderDetail where matnr = 'A111'
 
 update dbo.PlannedOrderDetail set erfmg = 10 where matnr = 'A111' and charg = 'X411'
 
+--18062020
+select count(*) as soLuong from PlannedOrderDetail  where plnum = 13560 and status = 1
 
+delete from PlannedOrder
+
+select distinct count(matnr) from PlannedOrderDetail where plnum = 13365 and status 
+
+select * from PlannedOrderDetail where plnum = 13560
+
+create table temporaryAccount
+(
+	username varchar(100),
+	password varchar(100)
+)
+
+alter procedure usp_UpdateTemporaryAccount
+(
+	@username varchar(100),
+	@password varchar(100)
+)
+as
+begin
+	update dbo.temporaryAccount set username = @username, password = @password
+end
+
+select top 1 * from temporaryAccount
+
+delete from temporaryAccount
+
+select count(*) from temporaryAccount
+
+use TracknTrace
+
+select distinct count(matnr) as soLuong from PlannedOrderDetail where plnum = 13361
+
+select * from PlannedOrderDetail where plnum = 13365
 

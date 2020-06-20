@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,9 +33,18 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LOL.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +56,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmChangeConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangeConnection.Designer.cs">
+      <DependentUpon>frmChangeConnection.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmChooseDocument.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,17 +74,17 @@
     <Compile Include="frmChooseBatch.Designer.cs">
       <DependentUpon>frmChooseBatch.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmCreateDocument.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmCreateDocument.Designer.cs">
-      <DependentUpon>frmCreateDocument.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmDocumentDetail.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmDocumentDetail.Designer.cs">
       <DependentUpon>frmDocumentDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditDetail.Designer.cs">
+      <DependentUpon>frmEditDetail.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogIn.cs">
       <SubType>Form</SubType>
@@ -76,26 +92,35 @@
     <Compile Include="frmLogIn.Designer.cs">
       <DependentUpon>frmLogIn.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Account.cs" />
+    <Compile Include="Model\AccountBusiness.cs" />
     <Compile Include="Model\Batch.cs" />
     <Compile Include="Model\BatchBusiness.cs" />
     <Compile Include="Model\DataProvider.cs" />
-    <Compile Include="Model\PlannedOrder.cs" />
-    <Compile Include="Model\PlannedOrderBusiness.cs" />
-    <Compile Include="Model\PlannedOrderDetail.cs" />
-    <Compile Include="Model\PlannedOrderDetailBusiness.cs" />
+    <Compile Include="Model\Itemcode.cs" />
+    <Compile Include="Model\ItemCodeBusiness.cs" />
+    <Compile Include="Model\Plannde.cs" />
+    <Compile Include="Model\PlanndeBusiness.cs" />
+    <Compile Include="Model\Detail.cs" />
+    <Compile Include="Model\DetailBusiness.cs" />
+    <Compile Include="Model\AccessToken.cs" />
+    <Compile Include="Model\PlannedOder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChangeConnection.resx">
+      <DependentUpon>frmChangeConnection.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmChooseDocument.resx">
       <DependentUpon>frmChooseDocument.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmChooseBatch.resx">
       <DependentUpon>frmChooseBatch.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmCreateDocument.resx">
-      <DependentUpon>frmCreateDocument.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmDocumentDetail.resx">
       <DependentUpon>frmDocumentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditDetail.resx">
+      <DependentUpon>frmEditDetail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogIn.resx">
       <DependentUpon>frmLogIn.cs</DependentUpon>
@@ -108,7 +133,9 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -122,6 +149,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="246ce0-1280x768.ico" />
+    <Content Include="Custom-Icon-Design-Pretty-Office-9-Edit-validated.ico" />
+    <Content Include="Icons8-Ios7-Ecommerce-Barcode-Scanner.ico" />
+    <Content Include="LOL.ico" />
+    <None Include="Resources\edit-validated-icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

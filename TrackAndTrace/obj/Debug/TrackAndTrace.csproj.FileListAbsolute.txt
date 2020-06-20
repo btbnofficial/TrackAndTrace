@@ -28,10 +28,8 @@ C:\Users\C# programer\Downloads\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackA
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe.config
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.pdb
-D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseDocument.resources
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseBatch.resources
-D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmCreateDocument.resources
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmDocumentDetail.resources
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmLogIn.resources
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.Properties.Resources.resources
@@ -39,3 +37,27 @@ D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackA
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CoreCompileInputs.cache
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.exe
 D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.pdb
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\Newtonsoft.Json.dll
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\bin\Debug\Newtonsoft.Json.xml
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CopyComplete
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmEditDetail.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChangeConnection.resources
+D:\Work\TrackAndTrace\TrackAndTrace\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe.config
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.exe
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\bin\Debug\TrackAndTrace.pdb
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\bin\Debug\Newtonsoft.Json.dll
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\bin\Debug\Newtonsoft.Json.xml
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csprojAssemblyReference.cache
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChangeConnection.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseDocument.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmChooseBatch.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmDocumentDetail.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmEditDetail.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.frmLogIn.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.Properties.Resources.resources
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.GenerateResource.cache
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CoreCompileInputs.cache
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.csproj.CopyComplete
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.exe
+D:\Work\TrackAndTrace\TrackAndTrace - Copy\TrackAndTrace\TrackAndTrace\obj\Debug\TrackAndTrace.pdb
